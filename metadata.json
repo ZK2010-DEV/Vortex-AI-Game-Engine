@@ -1,0 +1,5 @@
+{
+  "name": "Vortex AI Game Engine",
+  "description": "A professional-grade AI platform for generating, editing, and deploying Three.js games using Gemini 2.5 and 3.0 models with thinking and grounding capabilities.",
+  "requestFramePermissions": []
+}
